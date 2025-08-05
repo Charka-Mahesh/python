@@ -1,1 +1,1 @@
-### Python Data Analyst Projects
+**Python Data Analyst Projects**
